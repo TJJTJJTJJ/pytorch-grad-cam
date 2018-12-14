@@ -11,6 +11,11 @@ The paper authors torch implementation: https://github.com/ramprs/grad-cam
 
 My Keras implementation: https://github.com/jacobgil/keras-grad-cam
 
+The interpretation:
+
+<https://www.jianshu.com/p/b2f7efe10ad8>
+
+<https://tjjtjjtjj.github.io/2018/12/14/Grad-CAM/>
 
 ----------
 
